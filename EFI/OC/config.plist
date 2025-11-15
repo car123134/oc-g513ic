@@ -960,6 +960,78 @@
 				<key>PlistPath</key>
 				<string>Contents/Info.plist</string>
 			</dict>
+			<dict>
+				<key>Arch</key>
+				<string>Any</string>
+				<key>BundlePath</key>
+				<string>XLNCUSBFix.kext</string>
+				<key>Comment</key>
+				<string>XLNCUSBFix.kext</string>
+				<key>Enabled</key>
+				<true/>
+				<key>ExecutablePath</key>
+				<string></string>
+				<key>MaxKernel</key>
+				<string></string>
+				<key>MinKernel</key>
+				<string></string>
+				<key>PlistPath</key>
+				<string>Contents/Info.plist</string>
+			</dict>
+			<dict>
+				<key>Arch</key>
+				<string>Any</string>
+				<key>BundlePath</key>
+				<string>DummyUSBEHCIPCI.kext</string>
+				<key>Comment</key>
+				<string>DummyUSBEHCIPCI.kext</string>
+				<key>Enabled</key>
+				<true/>
+				<key>ExecutablePath</key>
+				<string>Contents/MacOS/AppleUSBEHCIPCI</string>
+				<key>MaxKernel</key>
+				<string></string>
+				<key>MinKernel</key>
+				<string></string>
+				<key>PlistPath</key>
+				<string>Contents/Info.plist</string>
+			</dict>
+			<dict>
+				<key>Arch</key>
+				<string>Any</string>
+				<key>BundlePath</key>
+				<string>DummyUSBXHCIPCI.kext</string>
+				<key>Comment</key>
+				<string>DummyUSBXHCIPCI.kext</string>
+				<key>Enabled</key>
+				<true/>
+				<key>ExecutablePath</key>
+				<string>Contents/MacOS/AppleUSBXHCIPCI</string>
+				<key>MaxKernel</key>
+				<string></string>
+				<key>MinKernel</key>
+				<string></string>
+				<key>PlistPath</key>
+				<string>Contents/Info.plist</string>
+			</dict>
+			<dict>
+				<key>Arch</key>
+				<string>Any</string>
+				<key>BundlePath</key>
+				<string>GenericUSBXHCI.kext</string>
+				<key>Comment</key>
+				<string>GenericUSBXHCI.kext</string>
+				<key>Enabled</key>
+				<true/>
+				<key>ExecutablePath</key>
+				<string>Contents/MacOS/GenericUSBXHCI</string>
+				<key>MaxKernel</key>
+				<string></string>
+				<key>MinKernel</key>
+				<string></string>
+				<key>PlistPath</key>
+				<string>Contents/Info.plist</string>
+			</dict>
 		</array>
 		<key>Block</key>
 		<array>
@@ -2099,23 +2171,23 @@
 			<key>AdviseFeatures</key>
 			<false/>
 			<key>MLB</key>
-			<string>C020323064N00008C</string>
+			<string>C02040102CD0000JC</string>
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>ProcessorType</key>
 			<integer>0</integer>
 			<key>ROM</key>
-			<data>jABtmjaR</data>
+			<data>eP2UnFJN</data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemMemoryStatus</key>
 			<string>Auto</string>
 			<key>SystemProductName</key>
-			<string>MacBookPro16,3</string>
+			<string>MacBookPro16,4</string>
 			<key>SystemSerialNumber</key>
-			<string>C02D65Y3P3XY</string>
+			<string>C02DHLYGMD6T</string>
 			<key>SystemUUID</key>
-			<string>58629307-B525-4716-A6D1-06557CF18662</string>
+			<string>A957A723-DB7A-4B4A-B630-BEF2EDD0303C</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
